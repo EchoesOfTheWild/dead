@@ -1,0 +1,18 @@
+#family {
+    font-family: "Oxanium", sans-serif;
+    text-align: center;
+    
+}
+html {
+    background-color: black;
+    color: aquamarine;
+}
+ol {
+    font-family: "Oxanium", sans-serif;
+    font-size: 20px;
+}
+
+#yoni {
+    width: 200px;
+    height: 400px;
+}
